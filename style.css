@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+
+body{
+    background-image: url(fondoRainbow.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    margin: 30px;
+    border-radius: 50%;
+}
+
+svg{
+    color: black !important;
+}
+
+svg:hover {
+    color: #A3E0B4 !important;
+}
+
+.link{
+top: calc(50% - 60px/2 - 181px);
+margin: 20px;
+background: #faeb8986;
+border-radius: 50px;
+text-align: center;
+padding: 10px;
+box-shadow: 5px 5px rgba(255, 100, 190, 0.288);
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+}
+
+.textoLink{
+    color: rgb(80, 75, 75);
+    text-decoration: none;
+}
+
+h3{
+    color: rgb(80, 75, 75);
+    text-align: center;
+}
+
+.textoLink:hover {
+    color:rgb(142, 42, 236);
+}
