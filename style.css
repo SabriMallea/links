@@ -4,7 +4,7 @@ body{
     background-image: url(fondoRainbow.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 100%;
     width: 100%;
 }
 
