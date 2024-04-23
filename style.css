@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
 
 body{
-    background-image: url(fondoRainbow.png);
-    background-cover: no-repeat;
+    overflow: hidden;
+     width: 100vw;
+    height: 100vh; 
+    background-color: #90a955;
 }
 
 img{
