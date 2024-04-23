@@ -4,7 +4,7 @@ body{
     overflow: hidden;
      width: 100vw;
     height: 100vh; 
-    background-color: #90a955;
+    background-color: #4f772d;
 }
 
 img{
@@ -23,7 +23,7 @@ svg:hover {
 .link{
 top: calc(50% - 60px/2 - 181px);
 margin: 20px;
-background: #faeb8986;
+background: #ecf39e;
 border-radius: 50px;
 text-align: center;
 padding: 10px;
