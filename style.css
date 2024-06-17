@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body{
     margin: 0;
@@ -38,11 +39,11 @@ svg:hover {
 
 .link{
 top: calc(50% - 60px/2 - 181px);
-margin: 10px;
 background: #fffcec;
+margin: 10px;
 border-radius: 50px;
 text-align: center;
-padding: 10px;
+padding: 5px;
 font-family: 'Roboto', sans-serif;
 font-style:normal;
 font-size: 20px;
@@ -60,20 +61,16 @@ width: 300px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
 } 
 
-h6{
+h3{
     color: #fffcec;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Indie Flower", cursive;
     font-style: normal;
     text-align: center;
 }
 
 .textoLink:hover {
     color:#6a994e;
-}
-
-.container .links{
-    margin: 8px;
 }
