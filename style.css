@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
 
 body{
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     height: 100%;
@@ -20,12 +19,6 @@ body{
     background-position: center;
     filter: blur(8px); 
     z-index: -1;
-=======
-    overflow: hidden;
-     width: 100vw;
-    height: 100vh; 
-    background-color: #4F772D;
->>>>>>> 9f4a67bce942c4fe314d3b42f73789d9388fc232
 }
 
 img{
@@ -45,13 +38,8 @@ svg:hover {
 
 .link{
 top: calc(50% - 60px/2 - 181px);
-<<<<<<< HEAD
 margin: 10px;
 background: #fffcec;
-=======
-margin: 20px;
-background: #ecf39e;
->>>>>>> 9f4a67bce942c4fe314d3b42f73789d9388fc232
 border-radius: 50px;
 text-align: center;
 padding: 10px;
